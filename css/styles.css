@@ -151,7 +151,7 @@ body{
 
 .iframes{
     width: 100%;
-    height: 1227.5px;
+    height: 911.5px;
     background: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
     clip-path: polygon(0% 2.8%, 100% 0%, 100% 97.2%, 0% 100%);
     padding-top: 6.4rem;
@@ -179,7 +179,7 @@ body{
 .iframes-container--podcast{
     width: 298px;
     max-width: 584px;
-    height: 231px;
+    height: 152px;
 }
 
 .extra{
