@@ -345,6 +345,7 @@ body{
     line-height: 4.2rem;
     color: var(--color-white);
     font-weight: 400;
+    text-align: center;
 }
 .contact_button{
     width: 28.8rem;
